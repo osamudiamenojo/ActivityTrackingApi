@@ -1,2 +1,2 @@
-# ActivityTrackingApi
-An API for activity tracking applications
+# online restaurant
+An API for online restaurants
